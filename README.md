@@ -1,6 +1,6 @@
 #### Arquivos originais na branch Master
 #### Arquivos modificados com a implementação do JWT e criação do token na btanch implementando-JWT
-
+---------------------------------------------------------------------------------------------------
 Esse projeto é uma API base para ser utilizada na [aula sobre JWT](https://app.betrybe.com/course/back-end/autenticacao-e-upload-de-arquivos/nodejs-jwt-json-web-token/acf1c24f-d531-4cf0-be9b-2384e37799d7/) do curso de NodeJS da Trybe.
 
 ## Baixando o projeto
